@@ -1,16 +1,16 @@
-### Hi there 👋
+```css
+#ushen:bofore {
+  content: "Farah Abderrazzak Aka Ushen";
+}
 
-<!--
-**u-shen/u-shen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#ushen {
+  display: boy;
+  height: 171cm;
+  background: "Full Stack Web Developer";
+  color: white;
+}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#ushen:after {
+  content: "farah-ushen@gmail.com" "reddit: u-shen" "linkdine: ushen";
+}
+```
