@@ -13,10 +13,10 @@
 
 ┌──┤ WHOAMI ├─────────▰▰▰
 │
-├─▣ Farah Abderrazzak Aka Ushen
+├─▣ Abderrazzak Farah  Aka <strong>USHEN</strong>
 ├─▣ Full Stack Web Developer
 ├─▣ Obsessed With The Terminal And In Love With Linux
-├─▣ <a href="https://thewhiteh4t.github.io/">Ushen Blog</a>
+├─▣ <a href="https://thewhiteh4t.github.io/">USHEN Blog</a>
 ├─▣ I am mostly available at <a href="https://twc1rcle.com/">The White Circle</a>
 │
 └───────────────────────────────▰▰▰
@@ -24,9 +24,9 @@
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
 ├─◈ <a href="https://twitter.com/thewhiteh4t">𝕏</a>
-├─◈ <a href="https://www.youtube.com/c/thewhiteh4t">YouTube</a>
+├─◈ <a href="https://www.youtube.com/channel/UC2N6GtH0Wh3HwBcLRW4DQhQ">YouTube</a>
 ├─◈ <a href="https://t.me/thewhiteh4t">Telegram</a>
-├─◈ <a href="https://www.linkedin.com/in/lohityapushkar">LinkedIn</a>
+├─◈ <a href="https://www.linkedin.com/in/abderrazzak-farah-835aa130b/">LinkedIn</a>
 │
 └───────────────────────────────▰▰▰
 
