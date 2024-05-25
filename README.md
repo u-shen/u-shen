@@ -17,7 +17,7 @@
 ├─▣ Full Stack Web Developer
 ├─▣ Obsessed With The Terminal And In Love With Linux
 ├─▣ <a href="https://thewhiteh4t.github.io/">USHEN Blog</a>
-├─▣ I am mostly available at <a href="https://twc1rcle.com/">The White Circle</a>
+├─▣ I am mostly available at <a href="https://discord.gg/invite/NMGXuV7e?role=your_role&username=u.shen">The White Circle</a>
 │
 └───────────────────────────────▰▰▰
 
