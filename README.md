@@ -10,7 +10,7 @@ $ uname -a
 Farah Abderrazzak Aka Ushen
 
 $ whoami
-Student, Full Stack Developer
+Student, Linux Guru, Full Stack Developer
 ```
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
